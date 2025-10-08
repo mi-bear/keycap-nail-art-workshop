@@ -9,8 +9,6 @@ Everything you need can be found at a 100-yen shop or local craft store.
 
 👉 [TinyGo Keeb Blog - Make Your Keycaps Stylish!](https://tinygo-keeb.org/blog/?p=32)
 
----
-
 ## Materials
 
 | Item                         | Purpose | Note                                                                                      |
@@ -24,8 +22,6 @@ Everything you need can be found at a 100-yen shop or local craft store.
 | <nobr>Tweezers</nobr>                     | <nobr>For placing parts</nobr> | Handle with care.<br><img src="./images/003.jpg" width="50%">                             |
 | <nobr>Nail stanld</nobr>                  | <nobr>Work base</nobr> | Place your keycap on it for stability.<br><img src="./images/007.jpg" width="50%">        |
 | <nobr>Magnet (optional)</nobr>     | <nobr>Special effect</nobr> | Use with magnetic gels for depth and shimmer.<br><img src="./images/005.jpg" width="50%"> |
-
----
 
 ## Steps
 
@@ -49,8 +45,6 @@ Everything you need can be found at a 100-yen shop or local craft store.
 
 6. **Cure under LED light (1–3 min)**  
    Final curing — and you’re done.
-
----
 
 ## Tips
 

@@ -7,8 +7,6 @@
 
 👉 [TinyGo Keeb Blog - 透明キーキャップをおしゃれに！](https://tinygo-keeb.org/blog/?p=32)
 
----
-
 ## 用意するもの
 
 | Item        | Purpose  | Note                                                             |
@@ -22,8 +20,6 @@
 | <nobr>ピンセット</nobr> | <nobr>パーツ配置用</nobr>   | 大切に扱ってください。<br><img src="./images/003.jpg" width="50%">          |
 | <nobr>ネイル台</nobr>  | <nobr>作業台</nobr>      | キーキャップを安定させるのに使います。<br><img src="./images/007.jpg" width="50%">  |
 | <nobr>マグネット</nobr> | <nobr>特殊効果用</nobr>    | マグネット対応ジェルで奥行きを出せます。<br><img src="./images/005.jpg" width="50%"> |
-
----
 
 ## 手順
 
@@ -48,9 +44,7 @@
 6. **LED で硬化させる (1〜3分)**  
    最後に硬化させて完成です。
 
----
-
-## アドバイス
+## Tips
 
 - 厚塗りしすぎると LED の光が届かずに硬化しにくいことがあります。薄く重ねていくのがコツです。
 - トップコートの前に一度ホコリを軽く払っておくときれいに仕上がります。
